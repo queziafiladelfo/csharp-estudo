@@ -1,0 +1,16 @@
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\bin\Debug\net5.0\Tipos.exe
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\bin\Debug\net5.0\Tipos.deps.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\bin\Debug\net5.0\Tipos.runtimeconfig.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\bin\Debug\net5.0\Tipos.runtimeconfig.dev.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\bin\Debug\net5.0\Tipos.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\bin\Debug\net5.0\ref\Tipos.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\bin\Debug\net5.0\Tipos.pdb
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\Tipos.csproj.AssemblyReference.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\Tipos.AssemblyInfoInputs.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\Tipos.AssemblyInfo.cs
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\Tipos.csproj.CoreCompileInputs.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\Tipos.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\ref\Tipos.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\Tipos.pdb
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Tipos\obj\Debug\net5.0\Tipos.genruntimeconfig.cache
