@@ -1,0 +1,16 @@
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\bin\Debug\net5.0\Exer07.exe
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\bin\Debug\net5.0\Exer07.deps.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\bin\Debug\net5.0\Exer07.runtimeconfig.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\bin\Debug\net5.0\Exer07.runtimeconfig.dev.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\bin\Debug\net5.0\Exer07.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\bin\Debug\net5.0\ref\Exer07.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\bin\Debug\net5.0\Exer07.pdb
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\Exer07.csproj.AssemblyReference.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\Exer07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\Exer07.AssemblyInfoInputs.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\Exer07.AssemblyInfo.cs
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\Exer07.csproj.CoreCompileInputs.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\Exer07.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\ref\Exer07.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\Exer07.pdb
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer07\obj\Debug\net5.0\Exer07.genruntimeconfig.cache
