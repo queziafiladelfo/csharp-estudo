@@ -1,0 +1,16 @@
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\bin\Debug\net5.0\Exer11.exe
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\bin\Debug\net5.0\Exer11.deps.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\bin\Debug\net5.0\Exer11.runtimeconfig.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\bin\Debug\net5.0\Exer11.runtimeconfig.dev.json
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\bin\Debug\net5.0\Exer11.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\bin\Debug\net5.0\ref\Exer11.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\bin\Debug\net5.0\Exer11.pdb
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\Exer11.csproj.AssemblyReference.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\Exer11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\Exer11.AssemblyInfoInputs.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\Exer11.AssemblyInfo.cs
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\Exer11.csproj.CoreCompileInputs.cache
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\Exer11.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\ref\Exer11.dll
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\Exer11.pdb
+C:\Users\cary1\Desktop\NET\curso\csharp-estudo\Exercicios\Exer11\obj\Debug\net5.0\Exer11.genruntimeconfig.cache
